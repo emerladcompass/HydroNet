@@ -1,0 +1,1 @@
+Network-based early warning system for hydrological collapse prediction using 12-parameter network analysis and transfer entropy

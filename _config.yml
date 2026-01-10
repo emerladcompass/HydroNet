@@ -1,10 +1,26 @@
 title: "HydroNet Research"
-description: "Network-based early warning system for hydrological collapse"
+description: "Network-Based Early Warning System for Hydrological Collapse"
 baseurl: "/HydroNet"
 url: "https://emerladcompass.github.io"
+
+# الثيم
 theme: jekyll-theme-cayman
+
+# الإعدادات
+author: "Samir Baladi"
+email: "emerladcompass@gmail.com"
+github_username: "emerladcompass"
 
 # المتغيرات المخصصة
 research_paper: "hydronet.html"
 github_repo: "https://github.com/emerladcompass/HydroNet"
-author: "Samir Baladi"
+
+# المكونات الإضافية
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# الاستبعاد
+exclude:
+  - Gemfile
+  - Gemfile.lock

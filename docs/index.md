@@ -864,3 +864,34 @@ Copyright © 2026 Samir Baladi | MIT License
 [⬆ Back to Top](#hydronet-v10-documentation)
 
 </div>
+
+---
+
+---
+
+<div align="center">
+
+**Made for Water Security Worldwide** 🌍💧
+
+### Twelve Indicators. One Network View. Early Warning.
+
+**From data to decision.**
+
+If HydroNet helps your research or water management:
+- ⭐ Star this repository
+- 📄 Cite our paper
+- 🤝 Contribute to the project
+- 💬 Share with colleagues
+
+---
+
+**HydroNet v1.0.0** | Released January 2026
+
+*"Where domains converge • Where networks reveal • Where water is saved"*
+
+Copyright © 2026 Samir Baladi | MIT License
+
+[⬆ Back to Top](#hydronet-v10-documentation)
+
+</div>
+

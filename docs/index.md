@@ -839,8 +839,6 @@ Emerald Compass Research
 
 ---
 
----
-
 **Made for Water Security Worldwide** 🌍💧
 
 ### Twelve Indicators. One Network View. Early Warning.

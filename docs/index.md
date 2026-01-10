@@ -829,13 +829,16 @@ Emerald Compass Research
 
 ### Essential Resources
 
-| Resource | Link |
-|----------|------|
-| 🌐 **Project Website** | [emerladcompass.github.io/HydroNet](https://emerladcompass.github.io/HydroNet/) |
-| 📦 **GitHub Repository** | [github.com/emerladcompass/HydroNet](https://github.com/emerladcompass/HydroNet) |
-| 📄 **Research Paper (HTML)** | [hydronet.html](./hydronet.html) |
-| 📖 **Full Documentation** | [Documentation/](./Documentation/) |
-| 🐍 **Python Package** | Coming soon |
+<div align="center">
+
+| Platform | Purpose | Link |
+|----------|---------|------|
+| 🐙 **GitHub** | Primary Repository | [github.com/emerladcompass/HydroNet](https://github.com/emerladcompass/HydroNet) |
+| 📦 **PyPI** | Python Package | [pypi.org/project/hydronet](https://pypi.org/project/hydronet/) |
+| 📄 **Research Paper**| Full Paper | [emerladcompass.github.io/HydroNet](https://emerladcompass.github.io/HydroNet/) |
+| 🌐 **Website** | Documentation | [https://hydronet.netlify.app/](https://hydronet.netlify.app/) |
+
+</div>
 
 ---
 

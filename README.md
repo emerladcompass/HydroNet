@@ -1,7 +1,71 @@
 # HydroNet: Network-Based Early Warning System for Hydrological Collapse
 
-[![PyPI version](https://badge.fury.io/py/hydronet.svg)](https://pypi.org/project/hydronet/)
-[![Downloads](https://static.pepy.tech/badge/hydronet/month)](https://pepy.tech/project/hydronet)
+<div align="center">
+
+![HydroNet Logo](https://img.shields.io/badge/HydroNet-Hydrological_Collapse_Prediction-1e90ff?style=for-the-badge&logo=water&logoColor=white)
+
+<!-- PyPI Badges -->
+[![PyPI version](https://img.shields.io/pypi/v/hydronet)](https://pypi.org/project/hydronet/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/hydronet)](https://pypi.org/project/hydronet/)
+[![License](https://img.shields.io/pypi/l/hydronet)](https://pypi.org/project/hydronet/)
+
+<!-- Version and Status -->
+[![Version](https://img.shields.io/badge/version-3.0.0-blue?style=flat-square)](https://github.com/emerladcompass/HydroNet/releases)
+[![Python](https://img.shields.io/badge/python-3.8+-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![Status](https://img.shields.io/badge/status-active-success?style=flat-square)]()
+
+<!-- Repository Links -->
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/emerladcompass/HydroNet)
+[![Website](https://img.shields.io/badge/website-hydronet-blue?style=flat-square&logo=github-pages&logoColor=white)](https://emerladcompass.github.io/HydroNet/)
+
+<!-- Repository Stats -->
+[![GitHub Stars](https://img.shields.io/github/stars/emerladcompass/HydroNet?style=flat-square&logo=github)](https://github.com/emerladcompass/HydroNet/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/emerladcompass/HydroNet?style=flat-square&logo=github)](https://github.com/emerladcompass/HydroNet/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/emerladcompass/HydroNet?style=flat-square&logo=github)](https://github.com/emerladcompass/HydroNet/issues)
+
+<!-- Build and Quality -->
+[![Build Status](https://img.shields.io/badge/build-passing-success?style=flat-square&logo=github-actions)](https://github.com/emerladcompass/HydroNet/actions)
+[![Tests](https://img.shields.io/badge/tests-4%2F4%20passed-brightgreen?style=flat-square&logo=pytest)](https://github.com/emerladcompass/HydroNet/actions)
+
+<!-- Hydro Performance Badges -->
+[![AUC Score](https://img.shields.io/badge/AUC-0.876-success?style=flat-square&logo=chartdotjs)](https://github.com/emerladcompass/HydroNet)
+[![Early Warning](https://img.shields.io/badge/early%20warning-8.4%20months-orange?style=flat-square&logo=clock)](https://github.com/emerladcompass/HydroNet)
+[![Parameters](https://img.shields.io/badge/parameters-12-blue?style=flat-square)](https://github.com/emerladcompass/HydroNet)
+[![Paper Length](https://img.shields.io/badge/paper-13,700%20words-blueviolet?style=flat-square&logo=readthedocs)](https://emerladcompass.github.io/HydroNet/hydronet.html)
+
+**Network-Based Early Warning System for Hydrological Collapse**<br>
+**12-Parameter Multi-Domain Network Analysis**
+
+</div>
+
+---
+
+## 🔗 Project Links
+
+<div align="center">
+
+| Platform | Purpose | Link |
+|----------|---------|------|
+| 🐙 **GitHub** | Primary Repository | [github.com/emerladcompass/HydroNet](https://github.com/emerladcompass/HydroNet) |
+| 📦 **PyPI** | Python Package | [pypi.org/project/hydronet](https://pypi.org/project/hydronet/) |
+| 🌐 **Website** | Documentation | [emerladcompass.github.io/HydroNet](https://emerladcompass.github.io/HydroNet/) |
+| 📄 **Research Paper** | Full Paper | [emerladcompass.github.io/HydroNet/hydronet.html](https://emerladcompass.github.io/HydroNet/hydronet.html) |
+
+</div>
+
+---
+
+## 🚀 Quick Installation
+
+```bash
+# Install from PyPI
+pip install hydronet
+
+# Or install from GitHub
+pip install git+https://github.com/emerladcompass/HydroNet.git
+
+
+
 ## 📋 Overview
 HydroNet is an early warning system for hydrological collapse based on multi-domain network analysis using 12 key indicators across climatic, hydrological, infrastructural, and socioeconomic domains. The system provides early warnings with a median lead time of 8.4 months before conventional indicators signal emergency.
 

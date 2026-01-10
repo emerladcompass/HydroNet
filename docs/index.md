@@ -836,7 +836,7 @@ Emerald Compass Research
 | 🐙 **GitHub** | Primary Repository | [github.com/emerladcompass/HydroNet](https://github.com/emerladcompass/HydroNet) |
 | 📦 **PyPI** | Python Package | [pypi.org/project/hydronet](https://pypi.org/project/hydronet/) |
 | 📄 **Research Paper**| Full Paper | [emerladcompass.github.io/HydroNet](https://emerladcompass.github.io/HydroNet/) |
-| 🌐 **Website** | Documentation | [https://hydronet.netlify.app/](https://hydronet.netlify.app/) |
+| 🌐 **Website** | Documentation | [https://hydronet-v1.netlify.app/](https://hydronet-v1.netlify.app/) |
 
 </div>
 

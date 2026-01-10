@@ -1,5 +1,7 @@
 # HydroNet: Network-Based Early Warning System for Hydrological Collapse
 
+[![PyPI version](https://badge.fury.io/py/hydronet.svg)](https://pypi.org/project/hydronet/)
+[![Downloads](https://static.pepy.tech/badge/hydronet)](https://pepy.tech/project/hydronet)
 ## 📋 Overview
 HydroNet is an early warning system for hydrological collapse based on multi-domain network analysis using 12 key indicators across climatic, hydrological, infrastructural, and socioeconomic domains. The system provides early warnings with a median lead time of 8.4 months before conventional indicators signal emergency.
 

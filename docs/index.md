@@ -1,5 +1,3 @@
-```
----
 # HydroNet v1.0 Documentation
 
 Welcome to the official documentation for **HydroNet v1.0** - Network-Based Early Warning System for Hydrological Collapse using 12-Parameter Multi-Domain Analysis.

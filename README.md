@@ -323,11 +323,7 @@ https://emerladcompass.github.io/HydroNet/
 · Parameters: 12 network indicators
 · Paper Length: 13,700 words
 
-🔗 Links
-
-· GitHub Repository: https://github.com/emerladcompass/HydroNet
-· Live Demo: https://emerladcompass.github.io/HydroNet/
-· Research Paper: https://emerladcompass.github.io/HydroNet/hydronet.html
+---
 
 👤 Author
 

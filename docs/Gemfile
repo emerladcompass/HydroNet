@@ -1,0 +1,20 @@
+source "https://rubygems.org"
+
+# GitHub Pages dependencies
+gem "github-pages", group: :jekyll_plugins
+
+# Jekyll theme (استخدم واحداً من الجاهزة)
+gem "jekyll-theme-minimal"
+# أو gem "jekyll-theme-cayman"
+# أو gem "jekyll-theme-tactile"
+
+# تحسينات إضافية
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "kramdown-parser-gfm"
+
+# للتنمية المحلية
+group :development do
+  gem "jekyll", "~> 4.3"
+  gem "webrick"
+end

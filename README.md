@@ -48,8 +48,8 @@
 |----------|---------|------|
 | 🐙 **GitHub** | Primary Repository | [github.com/emerladcompass/HydroNet](https://github.com/emerladcompass/HydroNet) |
 | 📦 **PyPI** | Python Package | [pypi.org/project/hydronet](https://pypi.org/project/hydronet/) |
-| 🌐 **Website** | Documentation | [emerladcompass.github.io/HydroNet](https://emerladcompass.github.io/HydroNet/) |
-| 📄 **Research Paper** | Full Paper | [emerladcompass.github.io/HydroNet/hydronet.html](https://emerladcompass.github.io/HydroNet/hydronet.html) |
+| 📄 **Research Paper**| Full Paper | [emerladcompass.github.io/HydroNet](https://emerladcompass.github.io/HydroNet/) |
+| 🌐 **Website** | Documentation | [https://hydronet.netlify.app/](https://hydronet.netlify.app/) |
 
 </div>
 
